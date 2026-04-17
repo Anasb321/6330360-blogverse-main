@@ -1,0 +1,6 @@
+[submodule "6330360-blogverse-backend"]
+	path = 6330360-blogverse-backend
+	url = https://github.com/Anasb321/6330360-blogverse-backend
+[submodule "6330360-blogverse-frontend"]
+	path = 6330360-blogverse-frontend
+	url = https://github.com/Anasb321/6330360-blogverse-frontend
